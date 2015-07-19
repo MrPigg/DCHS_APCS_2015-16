@@ -1,0 +1,20 @@
+/**
+* FileName.java MM/DD/YYYY
+*
+* @author - My Name
+* @author - Period #
+* @author - Id ######
+*
+* @author - I received help from...
+*
+*/
+
+public class AsciiBox
+{
+	public static void main(String[] args)
+	{
+		System.out.println("name \t  date \n\n" );
+		System.out.println("+++++++++++++++++++++++++ " );
+
+	}
+}
